@@ -1,0 +1,27 @@
+EMPLOYEE DOC PRACTICE REPPORT
+
+
+Tüm analizlerde önce çalışanın tüm verileri çekilmiş sonra isteğe uygun veriler yazılmıştır 
+
+Analiz 1 Cinsiyet in alındığı değişkenin durumuna göre istenen hangisi ise if blogu içerisinde yazılır. İstenmeyen veriler kaynak dosyada kalmaya devam etse de programda kaybedilir hedef dosyada görüntülenmez. 
+
+Analiz 2 Pozisyon un alındığı değişkenin durumuna göre istenen hangisi ise if bloğu içerisinde yazılır. İstenmeyen veriler kaynak dosyada kalmaya devam etse de programda kaybedilir hedef dosyada görüntülenmez. 
+
+Analiz 3 Medeni Halin alındığı değişkenin durumuna göre istenen hangisi ise if bloğu içerisinde yazılır. İstenmeyen veriler kaynak dosyada kalmaya devam etse de programda kaybedilir hedef dosyada görüntülenmez. 
+
+
+Listeleme yapılırken verileri bozmadan görünümün düzgün olması için düzenlemeler yapılmıştır
+
+
+
+Okuma yapılan dosyada - kaynak dosyada yer alan veriler :
+•	Çalışanların cinsiyeti, ismi, soy ismi, yaşı, medeni hali, maaşı, pozisyonu, telefon numarası, e-posta adresi bulunmaktadır.
+
+Kod içerisinde yapılan analiz1 – İlgili fonksiyon1 :
+
+•	Analiz 1 çalışanın cinsiyeti – fonksiyon kullanılmadı
+•	Analiz 2 çalışanın cinsiyeti – fonksiyon kullanılmadı
+•	Analiz 3 çalışanın medeni hali – fonksiyon kullanılmadı
+
+Sonuç dosyasında - hedef dosyada yer alan bilgiler
+•	Yer alan bilgiler okuma yapılan dosyadan çekilmiş verilerin kullanıcının 3 analizden seçtiği filtreye göre listelenmesi ile oluşmuştur.
