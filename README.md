@@ -1,4 +1,4 @@
 # EmployeeDocPractice
 prints the desired employee to the target file
 
-*low level code written for learning -2022* 
+*low level C code written for learning -2022* 
